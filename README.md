@@ -6,9 +6,8 @@
 
 #### -And make sure all the packages is up-to-date.
 
-![Home Page](assets/readme/1.png)
+![Grup](assets/readme/grup_6.png)
 
-![Game Page](assets/readme/2.png)
 
 
 
